@@ -1,0 +1,14 @@
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\bin\Debug\net6.0\Start2Proces.exe
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\bin\Debug\net6.0\Start2Proces.deps.json
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\bin\Debug\net6.0\Start2Proces.runtimeconfig.json
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\bin\Debug\net6.0\Start2Proces.dll
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\bin\Debug\net6.0\Start2Proces.pdb
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\obj\Debug\net6.0\Start2Proces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\obj\Debug\net6.0\Start2Proces.AssemblyInfoInputs.cache
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\obj\Debug\net6.0\Start2Proces.AssemblyInfo.cs
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\obj\Debug\net6.0\Start2Proces.csproj.CoreCompileInputs.cache
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\obj\Debug\net6.0\Start2Proces.dll
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\obj\Debug\net6.0\refint\Start2Proces.dll
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\obj\Debug\net6.0\Start2Proces.pdb
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\obj\Debug\net6.0\Start2Proces.genruntimeconfig.cache
+C:\Users\zixta\source\repos\Start2Proces\Start2Proces\obj\Debug\net6.0\ref\Start2Proces.dll
